@@ -1,0 +1,68 @@
+{
+  "name":"Highway Bandits",
+  "coins": {
+    "platinum": 0,
+    "gold": 300,
+    "silver": 602,
+    "copper": 5
+  },
+  "items": [
+    {
+      "name": "Potions of Cure Light Wounds",
+      "value": 50,
+      "amount": 4,
+      "claimed":4,
+      "trade-good":false
+    },
+    {
+      "name": "Horse-Light (Combat)",
+      "value": 110,
+      "amount": 3,
+      "claimed":3,
+      "trade-good":false
+    },
+    {
+      "name": "Sap",
+      "value": 1,
+      "amount": 3,
+      "claimed":1,
+      "trade-good":false
+    },
+    {
+      "name": "20x Arrows",
+      "value": 1,
+      "amount": 3,
+      "claimed":3,
+      "trade-good":false
+    },
+    {
+      "name": "Buckler",
+      "value": 5,
+      "amount": 3,
+      "claimed":0,
+      "trade-good":false
+    },
+    {
+      "name": "Composite Longbow (+1 Str)",
+      "value": 201,
+      "amount": 3,
+      "claimed":1,
+      "trade-good":false
+    },
+    {
+      "name": "Studded Leather Armor",
+      "value": 25,
+      "amount": 3,
+      "claimed":0,
+      "trade-good":false
+    }
+  ],
+  "player_loot": {
+    "party": 200,
+    "John": 0,
+    "Margaret": 111,
+    "Sean": 0,
+    "Leata": 314,
+    "Phil": 110
+  }
+}

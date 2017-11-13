@@ -1,0 +1,263 @@
+{   
+    "name": "Goblin Raiders",
+    "coins": {
+        "platinum": 0,
+        "gold": 463,
+        "silver": 313,
+        "copper": 94
+    },
+    "items": [
+        {
+            "name": "Small Short Sword",
+            "value": 10,
+            "amount": 16,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Small Leather Armor",
+            "value": 10,
+            "amount": 16,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Small Wooden Shield",
+            "value": 3,
+            "amount": 16,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Small Crossbow",
+            "value": 35,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Javelin",
+            "value": 1,
+            "amount": 6,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Small Short Bow",
+            "value": 30,
+            "amount": 13,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Shortbow Arrows (x20)",
+            "value": 1,
+            "amount": 3,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Potion: Cure Light Wounds",
+            "value": 50,
+            "amount": 6,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Trail Rations",
+            "value": 0.5,
+            "amount": 10,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Tent",
+            "value": 10,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Healers Kit",
+            "value": 50,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Climbers Kit",
+            "value": 80,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Bottle of Wine",
+            "value": 100,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": true
+        },
+        {
+            "name": "Small Masterwork Composite Long Bow",
+            "value": 400,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Small Masterwork Rapier",
+            "value": 120,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Potion: Aid",
+            "value": 300,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Potion: Oil of Arcane Mark",
+            "value": 25,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 1,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Potion: Magic Weapon",
+            "value": 50,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        }
+    ]
+}
