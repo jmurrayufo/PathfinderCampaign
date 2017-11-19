@@ -1,0 +1,97 @@
+Initial Player Balances
+   party: 200.00 gp
+    Phil: 207.06 gp
+    John: 207.06 gp
+    Sean: 207.06 gp
+   Leata: 314.00 gp
+Margaret: 207.06 gp
+
+Total loot to split 1249.74 gp.
+
+Player Loot Taken
+Margaret takes 1x Small Short Sword worth 10.00 gp
+Leata takes 3x Shortbow Arrows (x20) worth 3.00 gp
+party takes 6x Potion: Cure Light Wounds worth 300.00 gp
+party takes 10x Trail Rations worth 5.00 gp
+John takes 1x Tent worth 10.00 gp
+party takes 1x Healers Kit worth 50.00 gp
+Leata takes 1x Climbers Kit worth 80.00 gp
+party takes 1x Potion: Aid worth 300.00 gp
+party takes 1x Potion: Oil of Arcane Mark worth 25.00 gp
+party takes 1x Potion: Magic Weapon worth 50.00 gp
+
+Total Player Loot Taken
+   party: 730.00 gp
+    Phil:   0.00 gp
+    John:  10.00 gp
+    Sean:   0.00 gp
+   Leata:  83.00 gp
+Margaret:  10.00 gp
+
+Balance After Player Loot
+   party: 930.00 gp
+    Phil: 207.06 gp
+    John: 217.06 gp
+    Sean: 207.06 gp
+   Leata: 397.00 gp
+Margaret: 217.06 gp
+
+Allocate Loot until party is balanced, or loot is gone.
+
+Loop to equal out players.
+Lowest balance is 207.06 gp
+Target for these balances is 217.06 gp
+Payout expected is 10.00 gp
+Who has this amount?
+Found 2 players with 207.06 gp
+  Phil
+  Sean
+Pay out 10.00 gp to each player
+
+Loop to equal out players.
+Lowest balance is 217.06 gp
+Target for these balances is 397.00 gp
+Payout expected is 179.94 gp
+Who has this amount?
+Found 4 players with 217.06 gp
+  Phil
+  John
+  Sean
+  Margaret
+Pay out 179.94 gp to each player
+
+Loop to equal out players.
+Players are equal, split remaining loot.
+
+We now have 509.99 gp to split.
+Do you wish to also fund the party fund?
+(y/n)> y
+Give each remaining member 85.00 gp
+
+Final Results
+   party
+        - Old Balance:  200.00 gp
+        - New Balance: 1,015.00 gp
+        - Coins Paid:    85.00 gp
+    Phil
+        - Old Balance:  207.06 gp
+        - New Balance:  482.00 gp
+        - Coins Paid:   274.94 gp
+    John
+        - Old Balance:  207.06 gp
+        - New Balance:  482.00 gp
+        - Coins Paid:   264.94 gp
+    Sean
+        - Old Balance:  207.06 gp
+        - New Balance:  482.00 gp
+        - Coins Paid:   274.94 gp
+   Leata
+        - Old Balance:  314.00 gp
+        - New Balance:  482.00 gp
+        - Coins Paid:    85.00 gp
+Margaret
+        - Old Balance:  207.06 gp
+        - New Balance:  482.00 gp
+        - Coins Paid:   264.94 gp
+Do you wish to commit this to the DB?
+(y/n)> y
