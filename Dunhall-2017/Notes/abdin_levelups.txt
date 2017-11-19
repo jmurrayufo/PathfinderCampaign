@@ -3,7 +3,7 @@ Level 2:
     [x] Check for new abilities
     [x] Check for (and pick) new spells
     [x] Update Base Attack Bonus
-    [x] Update Fox/Ref/Will saves
+    [x] Update Fort/Ref/Will saves
     [x] Update Skills 
         +1 Diplomacy
         +1 Perception

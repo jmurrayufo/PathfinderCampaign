@@ -3,6 +3,6 @@
 [ ] Pick favored class bonus
 [ ] Pick favored class bonus
 [ ] Update Base Attack Bonus
-[ ] Update Fox/Ref/Will saves
+[ ] Update Fort/Ref/Will saves
 [ ] Update Skills 
 [ ] Update hit points
