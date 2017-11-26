@@ -4,3 +4,16 @@
 * [[Session/session-1]]
 * [[Session/session-2]]
 * [[Session/session-3]]
+* [[Session/session-4]]
+
+== Todo List ==
+(ctrl+space to check/uncheck)
+* [X] Goblin Attacks
+* [ ] Delaila's Curse
+	* [ ] Get a wishing stone from the tower
+* [o] Leana's Amulet
+	* [X] Investigate the tomb
+	* [ ] Determine if the thiefs guild is involed
+
+
+
