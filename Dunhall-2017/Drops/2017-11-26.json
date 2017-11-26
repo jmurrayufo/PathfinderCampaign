@@ -1,0 +1,278 @@
+{
+    "coins": {
+        "platinum": 0,
+        "gold": 4030,
+        "silver": 525,
+        "copper": 0
+    },
+    "items": [
+        {
+            "name": "Small Masterwork Breastplate",
+            "value": 350,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Small Master Short spear",
+            "value": 301,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Small Heavy Steal Shield",
+            "value": 20,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Small Light Crossbow",
+            "value": 35,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Small Breastplate",
+            "value": 200,
+            "amount": 2,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Small Steal Shieeld",
+            "value": 9,
+            "amount": 2,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Small short Spear",
+            "value": 1,
+            "amount": 2,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Small Leather Armor",
+            "value": 10,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Longbow",
+            "value": 75,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 1,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Engraved Spear ???",
+            "value": 2302,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Tapistry",
+            "value": 1000,
+            "amount": 2,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": true
+        },
+        {
+            "name": "Battle Axe",
+            "value": 10,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Leather Armor",
+            "value": 10,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Heavy Wooden Shield (Painted on it, in yelow paint, a paw). The mark of the black ravangers",
+            "value": 7,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 1,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Bottle of Black Ink",
+            "value": 8,
+            "amount": 2,
+            "claimed": {
+                "party": 0,
+                "Phil": 1,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 1
+            },
+            "trade-good": true
+        },
+        {
+            "name": "Sheet of Paper",
+            "value": 0.4,
+            "amount": 100,
+            "claimed": {
+                "party": 0,
+                "Phil": 50,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 50
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Potion of Fly",
+            "value": 900,
+            "amount": 1,
+            "claimed": {
+                "party": 1,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Potion of Experdious Retreat",
+            "value": 750,
+            "amount": 1,
+            "claimed": {
+                "party": 1,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Potion of Phantom Steed",
+            "value": 50,
+            "amount": 1,
+            "claimed": {
+                "party": 1,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        }
+    ],
+    "name": "Party with the faries",
+    "comments": ""
+}
