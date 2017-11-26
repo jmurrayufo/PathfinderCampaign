@@ -13,7 +13,12 @@
 	* [ ] Get a wishing stone from the tower
 * [o] Leana's Amulet
 	* [X] Investigate the tomb
-	* [ ] Determine if the thiefs guild is involed
+	* [X] Determine if the thiefs guild is involed
+    * [o] Check in on the Three Fences
+        * [X] Fence 1 (Brody Haiden)
+        * [X] Fence 2 (Kenwick Fiddlestar)
+        * [ ] Fence 3 (Kit Batts)
+    * [ ] Get the amulet
 
 
 
