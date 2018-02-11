@@ -11,6 +11,11 @@
             "value": 50,
             "amount": 1,
             "claimed": {
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0,
                 "party": 0
             },
             "trade-good": false

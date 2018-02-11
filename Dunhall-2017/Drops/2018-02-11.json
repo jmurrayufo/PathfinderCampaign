@@ -11,6 +11,11 @@
             "value": 15,
             "amount": 7,
             "claimed": {
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0,
                 "party": 0
             },
             "trade-good": false
@@ -20,6 +25,11 @@
             "value": 35,
             "amount": 7,
             "claimed": {
+                "Phil": 1,
+                "John": 0,
+                "Sean": 1,
+                "Leata": 0,
+                "Margaret": 0,
                 "party": 0
             },
             "trade-good": false
@@ -29,6 +39,11 @@
             "value": 1,
             "amount": 7,
             "claimed": {
+                "Phil": 2,
+                "John": 0,
+                "Sean": 2,
+                "Leata": 0,
+                "Margaret": 0,
                 "party": 0
             },
             "trade-good": false
