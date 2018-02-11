@@ -5,20 +5,26 @@
 * [[Session/session-2]]
 * [[Session/session-3]]
 * [[Session/session-4]]
+* [[Session/session-5]]
+* [[Session/session-6]]
 
 == Todo List ==
 (ctrl+space to check/uncheck)
 * [X] Goblin Attacks
 * [ ] Delaila's Curse
 	* [ ] Get a wishing stone from the tower
-* [o] Leana's Amulet
+* [X] Leana's Amulet
 	* [X] Investigate the tomb
 	* [X] Determine if the thiefs guild is involed
-    * [o] Check in on the Three Fences
+    * [X] Check in on the Three Fences
         * [X] Fence 1 (Brody Haiden)
         * [X] Fence 2 (Kenwick Fiddlestar)
-        * [ ] Fence 3 (Kit Batts)
-    * [ ] Get the amulet
+        * [X] Fence 3 (Kit Batts)
+    * [X] Get the amulet
+
+== Levelups ==
+
+[[AbdinLevelups]]
 
 
 

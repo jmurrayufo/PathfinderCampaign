@@ -13,5 +13,25 @@ Level 2:
         +1 Skill
     [x] Update hit points
         +9 (14->23)
+
+Level 2:
+    [x] Check for new abilities
+        + Aura of courage
+        + divine health
+        + mercy (fatigued)
+    [] Check for (and pick) new spells
+    [x] Update Base Attack Bonus
+    [x] Update Fort/Ref/Will saves
+    [x] Update Skills 
+        + Deplomacy
+        + Sens Motice
+        + Spell Craft
+        + Perception
+    [x] Pick favored class bonus
+        + skill
+    [x] Update hit points
+        +9 (23->32)
+        
+
         
 
