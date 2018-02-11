@@ -1,0 +1,129 @@
+= 11-26-2017 =
+
+== Loot Drop ==
+
+	Initial Player Balances
+	   party:1,015.00 gp
+		Phil: 482.00 gp
+		John: 482.00 gp
+		Sean: 482.00 gp
+	   Leata: 482.00 gp
+	Margaret: 482.00 gp
+
+	Total loot to split 7811.50 gp.
+
+	Player Loot Taken
+	John takes 1x Longbow worth 75.00 gp
+	Phil takes 1x Heavy Wooden Shield (Painted on it, in yelow paint, a paw). The mark of the black ravangers worth 7.00 gp
+	Phil takes 1x Bottle of Black Ink worth 8.00 gp
+	Margaret takes 1x Bottle of Black Ink worth 8.00 gp
+	Phil takes 50x Sheet of Paper worth 20.00 gp
+	Margaret takes 50x Sheet of Paper worth 20.00 gp
+	party takes 1x Potion of Fly worth 900.00 gp
+	party takes 1x Potion of Experdious Retreat worth 750.00 gp
+	party takes 1x Potion of Phantom Steed worth 50.00 gp
+
+	Total Player Loot Taken
+	   party:1,700.00 gp
+		Phil:  35.00 gp
+		John:  75.00 gp
+		Sean:   0.00 gp
+	   Leata:   0.00 gp
+	Margaret:  28.00 gp
+
+	Balance After Player Loot
+	   party:2,715.00 gp
+		Phil: 517.00 gp
+		John: 557.00 gp
+		Sean: 482.00 gp
+	   Leata: 482.00 gp
+	Margaret: 510.00 gp
+
+	Allocate Loot until party is balanced, or loot is gone.
+
+	Loop to equal out players.
+	Lowest balance is 482.00 gp
+	Target for these balances is 510.00 gp
+	Payout expected is 28.00 gp
+	Who has this amount?
+	Found 2 players with 482.00 gp
+	  Sean
+	  Leata
+	Pay out 28.00 gp to each player
+
+	Loop to equal out players.
+	Lowest balance is 510.00 gp
+	Target for these balances is 517.00 gp
+	Payout expected is 7.00 gp
+	Who has this amount?
+	Found 3 players with 510.00 gp
+	  Sean
+	  Leata
+	  Margaret
+	Pay out 7.00 gp to each player
+
+	Loop to equal out players.
+	Lowest balance is 517.00 gp
+	Target for these balances is 557.00 gp
+	Payout expected is 40.00 gp
+	Who has this amount?
+	Found 4 players with 517.00 gp
+	  Phil
+	  Sean
+	  Leata
+	  Margaret
+	Pay out 40.00 gp to each player
+
+	Loop to equal out players.
+	Players are equal, split remaining loot.
+
+	We now have 7574.50 gp to split.
+	Do you wish to also fund the party fund?
+	(y/n)> y
+	Give each remaining member 1262.42 gp
+
+	Final Results
+	   party
+			- Old Balance: 1,015.00 gp
+			- New Balance: 3,977.41 gp
+			- Coins Paid:  1,262.42 gp
+		Phil
+			- Old Balance:  482.00 gp
+			- New Balance: 1,819.41 gp
+			- Coins Paid:  1,302.42 gp
+		John
+			- Old Balance:  482.00 gp
+			- New Balance: 1,819.41 gp
+			- Coins Paid:  1,262.42 gp
+		Sean
+			- Old Balance:  482.00 gp
+			- New Balance: 1,819.41 gp
+			- Coins Paid:  1,337.42 gp
+	   Leata
+			- Old Balance:  482.00 gp
+			- New Balance: 1,819.41 gp
+			- Coins Paid:  1,337.42 gp
+	Margaret
+			- Old Balance:  482.00 gp
+			- New Balance: 1,819.41 gp
+			- Coins Paid:  1,309.42 gp
+	Do you wish to commit this to the DB?
+	(y/n)> y
+
+== Events ==
+
+We return to sweet water before making our way back home. While the plateau was preparing for the celebrations. 
+
+Our (Matteo and I)'s grandmother's amulet has been stolen. We have been asked to retrieve it discreetly. 
+
+Leana (my twin sister) met us at the party, and gave us some more detail about the amulet. She was extremely upset about the events leading to the theft.We arranged to meet at the gazebo later in the evening. 
+
+Briar noticed that Baron Elario Forelli acted strangly when told about the Gnolls back at the castle. He suspects that he is somewhat award of what is going on with them. Abden suggested questing him, but was talked out of it. 
+ 
+The amulet is a very powerful atifact, suspected to be granted to our people to 'bring prosperity' to Dunhall. Leana is to take the amulet, when she becomes queen (or ruler? w/e). 
+
+She shared with us that my grandfather is to pass away in 60 days (the day AFTER his 60's birthday). This was part of a prophecy that has helped him lead for many years (thus we believe it). 
+
+Searching the tomb, we found that many graves were robbed, not just the one with the amulet. The robber clearly had a limp, probably from a bad leg. Briar things this was from a thief of middling intelligence. 
+
+Searching in (TOWN NAME?), we found that Grandpa Stan was sold the amulet about a month ago

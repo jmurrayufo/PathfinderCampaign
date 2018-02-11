@@ -1,0 +1,47 @@
+
+= Levels =
+
+== Base ==
+* [ ] Check for (and pick) new spells
+* [ ] Check for new abilities
+* [ ] Pick favored class bonus
+    * [ ] +1 HP
+    * [ ] +1 Skill Point
+    * [ ] Race Based
+* [ ] Update Base Attack Bonus
+* [ ] Update Fort/Ref/Will saves
+* [ ] Update Skills 
+* [ ] Update hit points
+
+== Level 2 ==
+* [X] Check for new abilities
+* [X] Check for (and pick) new spells
+* [X] Update Base Attack Bonus
+* [X] Update Fort/Ref/Will saves
+* [X] Update Skills
+	+1 Diplomacy
+	+1 Perception
+	+1 Ride
+	+1 Sense Motive
+* [X] Pick favored class bonus
+	+1 Skill
+* [X] Update hit points
+	+9 (14->23)
+
+== Level 3 ==
+* [X] Check for new abilities
+	+ Aura of courage
+	+ divine health
+	+ mercy (fatigued)
+* [X] Check for (and pick) new spells
+* [X] Update Base Attack Bonus
+* [X] Update Fort/Ref/Will saves
+* [X] Update Skills
+	+ Deplomacy
+	+ Sens Motice
+	+ Spell Craft
+	+ Perception
+* [X] Pick favored class bonus
+	+ skill
+* [X] Update hit points
+	+9 (23->32)

@@ -1,0 +1,155 @@
+
+== Loot Parsed ==
+Initial Player Balances
+   party: 200.00 gp
+    Phil: 207.06 gp
+    John: 207.06 gp
+    Sean: 207.06 gp
+   Leata: 314.00 gp
+Margaret: 207.06 gp
+
+Total loot to split 1249.74 gp.
+
+Player Loot Taken
+Margaret takes 1x Small Short Sword worth 10.00 gp
+Leata takes 3x Shortbow Arrows (x20) worth 3.00 gp
+party takes 6x Potion: Cure Light Wounds worth 300.00 gp
+party takes 10x Trail Rations worth 5.00 gp
+John takes 1x Tent worth 10.00 gp
+party takes 1x Healers Kit worth 50.00 gp
+Leata takes 1x Climbers Kit worth 80.00 gp
+party takes 1x Potion: Aid worth 300.00 gp
+party takes 1x Potion: Oil of Arcane Mark worth 25.00 gp
+party takes 1x Potion: Magic Weapon worth 50.00 gp
+
+Total Player Loot Taken
+   party: 730.00 gp
+    Phil:   0.00 gp
+    John:  10.00 gp
+    Sean:   0.00 gp
+   Leata:  83.00 gp
+Margaret:  10.00 gp
+
+Balance After Player Loot
+   party: 930.00 gp
+    Phil: 207.06 gp
+    John: 217.06 gp
+    Sean: 207.06 gp
+   Leata: 397.00 gp
+Margaret: 217.06 gp
+
+Allocate Loot until party is balanced, or loot is gone.
+
+Loop to equal out players.
+Lowest balance is 207.06 gp
+Target for these balances is 217.06 gp
+Payout expected is 10.00 gp
+Who has this amount?
+Found 2 players with 207.06 gp
+  Phil
+  Sean
+Pay out 10.00 gp to each player
+
+Loop to equal out players.
+Lowest balance is 217.06 gp
+Target for these balances is 397.00 gp
+Payout expected is 179.94 gp
+Who has this amount?
+Found 4 players with 217.06 gp
+  Phil
+  John
+  Sean
+  Margaret
+Pay out 179.94 gp to each player
+
+Loop to equal out players.
+Players are equal, split remaining loot.
+
+We now have 509.99 gp to split.
+Do you wish to also fund the party fund?
+(y/n)> y
+Give each remaining member 85.00 gp
+
+Final Results
+   party
+        - Old Balance:  200.00 gp
+        - New Balance: 1,015.00 gp
+        - Coins Paid:    85.00 gp
+    Phil
+        - Old Balance:  207.06 gp
+        - New Balance:  482.00 gp
+        - Coins Paid:   274.94 gp
+    John
+        - Old Balance:  207.06 gp
+        - New Balance:  482.00 gp
+        - Coins Paid:   264.94 gp
+    Sean
+        - Old Balance:  207.06 gp
+        - New Balance:  482.00 gp
+        - Coins Paid:   274.94 gp
+   Leata
+        - Old Balance:  314.00 gp
+        - New Balance:  482.00 gp
+        - Coins Paid:    85.00 gp
+Margaret
+        - Old Balance:  207.06 gp
+        - New Balance:  482.00 gp
+        - Coins Paid:   264.94 gp
+Do you wish to commit this to the DB?
+(y/n)> y
+
+
+== Gameplay Notes ==
+
+Abdin and Faena tried to talk to the goblin captive. Abdin failed miserably to talk him into anything, so Faeana had to intimidate the shit out of him. They were making sacrificed to Mortarian (the god who created the goblins). He is afraid of the cleric (their leader). They were headed to an ancient castle.
+
+The castle was Caer Dowl, a castle deep in the woods used in the halarian/gobin war 300 years ago. This has now been overtaken by the Wouldin Wood. The castle is to the North.
+
+Abdin spent 15 gp on maniacal, and 20 gp on the lock.
+
+Leaving the town the next day, the party ran across a suspicious leprechaun, Idwal Mac. He invited us to a summer solstice celebration. The party suspects that he is up to no good (but perhaps) not malice. When asked about Deliala, he knew of her. The fae folks had not manged to do anything for her. We said we might seem him at the party in the woods.
+
+Finding the castle, we found it in a state of rushed repair.
+
+Feana magically manipulated out Goblin captive to tell us how to break into the castle. Leaving him behind, we went down river to cross at a safe spot. After soaking Abdin, Faena and Mateo, we snuck to the castle. Sending in Nuwkul into the castle to light a fire, we used the distraction to sneek in and find the priest.
+
+Sneaking into the abomination of the church, we got the jump on the guards and priest. Finishing them off without issue, we found ourselves trapped. Burning the alter, with the body of the priest attached, we use the sight to scare off the remaining vile beasts. Recovering from the battle, we were suprised to find two gnoles leaving the keep. One fell to it's death, the other took off like a bat out of hell.
+
+Leaving the castle, we visited the glade with the party of Fae creatures. Feana was caught in her lie, although Delialia did not seem to catch onto this fact. Feana talked to her, and learned of the tale of Bran the Third. He apprently was an ancient hero that ganed fame in defeating a group of sea monsters. He went to the underkeep to acquire a collection of wishing stones. She wants us to go there to get them, and help break her curse.
+
+Kreedak
+
+Chest:
+    4030 gp
+    525 sp
+
+Equipment
+    Small Masterwork Breastplate
+    Small Master Short spear
+    Small Heavy Steal Shield
+    Small Light Crossbow
+
+    Small Breastplate x2
+    Small Steal Shieeld x2
+    Small short Spear x2
+
+    Small Leather Armor
+    Longbow
+    Engraved Spear ???
+
+    Tapistry x2
+
+    Battle Axe
+    Leather aRmor
+    Heavy Wooden Shield (Painted on it, in yelow paint, a paw). The mark of the black ravangers
+
+    Bottle of Black Ink x2
+    Sheet of Paperp x 100
+
+    Potion of Fly
+    Potion of Experdious Retreat
+    Potion of Phantom Steed
+
++200 xp
++600 xp
+

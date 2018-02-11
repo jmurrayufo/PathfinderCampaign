@@ -1,30 +1,15 @@
-{   
-    "name": "Goblin Raiders",
+{
     "coins": {
         "platinum": 0,
-        "gold": 463,
-        "silver": 313,
-        "copper": 94
+        "gold": 4030,
+        "silver": 525,
+        "copper": 0
     },
     "items": [
         {
-            "name": "Small Short Sword",
-            "value": 10,
-            "amount": 16,
-            "claimed": {
-                "party": 0,
-                "Phil": 0,
-                "John": 0,
-                "Sean": 0,
-                "Leata": 0,
-                "Margaret": 1
-            },
-            "trade-good": false
-        },
-        {
-            "name": "Small Leather Armor",
-            "value": 10,
-            "amount": 16,
+            "name": "Small Masterwork Breastplate",
+            "value": 350,
+            "amount": 1,
             "claimed": {
                 "party": 0,
                 "Phil": 0,
@@ -36,9 +21,9 @@
             "trade-good": false
         },
         {
-            "name": "Small Wooden Shield",
-            "value": 3,
-            "amount": 16,
+            "name": "Small Master Short spear",
+            "value": 301,
+            "amount": 1,
             "claimed": {
                 "party": 0,
                 "Phil": 0,
@@ -50,7 +35,21 @@
             "trade-good": false
         },
         {
-            "name": "Small Crossbow",
+            "name": "Small Heavy Steal Shield",
+            "value": 20,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Small Light Crossbow",
             "value": 35,
             "amount": 1,
             "claimed": {
@@ -64,9 +63,37 @@
             "trade-good": false
         },
         {
-            "name": "Small Javelin",
+            "name": "Small Breastplate",
+            "value": 200,
+            "amount": 2,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Small Steal Shieeld",
+            "value": 9,
+            "amount": 2,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Small short Spear",
             "value": 1,
-            "amount": 6,
+            "amount": 2,
             "claimed": {
                 "party": 0,
                 "Phil": 0,
@@ -78,64 +105,22 @@
             "trade-good": false
         },
         {
-            "name": "Small Short Bow",
-            "value": 30,
-            "amount": 13,
-            "claimed": {
-                "party": 0,
-                "Phil": 0,
-                "John": 0,
-                "Sean": 0,
-                "Leata": 0,
-                "Margaret": 0
-            },
-            "trade-good": false
-        },
-        {
-            "name": "Shortbow Arrows (x20)",
-            "value": 1,
-            "amount": 3,
-            "claimed": {
-                "party": 0,
-                "Phil": 0,
-                "John": 0,
-                "Sean": 0,
-                "Leata": 3,
-                "Margaret": 0
-            },
-            "trade-good": false
-        },
-        {
-            "name": "Potion: Cure Light Wounds",
-            "value": 50,
-            "amount": 6,
-            "claimed": {
-                "party": 6,
-                "Phil": 0,
-                "John": 0,
-                "Sean": 0,
-                "Leata": 0,
-                "Margaret": 0
-            },
-            "trade-good": false
-        },
-        {
-            "name": "Trail Rations",
-            "value": 0.5,
-            "amount": 10,
-            "claimed": {
-                "party": 10,
-                "Phil": 0,
-                "John": 0,
-                "Sean": 0,
-                "Leata": 0,
-                "Margaret": 0
-            },
-            "trade-good": false
-        },
-        {
-            "name": "Tent",
+            "name": "Small Leather Armor",
             "value": 10,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Longbow",
+            "value": 75,
             "amount": 1,
             "claimed": {
                 "party": 0,
@@ -148,11 +133,11 @@
             "trade-good": false
         },
         {
-            "name": "Healers Kit",
-            "value": 50,
+            "name": "Engraved Spear ???",
+            "value": 2302,
             "amount": 1,
             "claimed": {
-                "party": 1,
+                "party": 0,
                 "Phil": 0,
                 "John": 0,
                 "Sean": 0,
@@ -162,23 +147,9 @@
             "trade-good": false
         },
         {
-            "name": "Climbers Kit",
-            "value": 80,
-            "amount": 1,
-            "claimed": {
-                "party": 0,
-                "Phil": 0,
-                "John": 0,
-                "Sean": 0,
-                "Leata": 1,
-                "Margaret": 0
-            },
-            "trade-good": false
-        },
-        {
-            "name": "Bottle of Wine",
-            "value": 100,
-            "amount": 1,
+            "name": "Tapistry",
+            "value": 1000,
+            "amount": 2,
             "claimed": {
                 "party": 0,
                 "Phil": 0,
@@ -190,8 +161,8 @@
             "trade-good": true
         },
         {
-            "name": "Small Masterwork Composite Long Bow",
-            "value": 400,
+            "name": "Battle Axe",
+            "value": 10,
             "amount": 1,
             "claimed": {
                 "party": 0,
@@ -204,8 +175,8 @@
             "trade-good": false
         },
         {
-            "name": "Small Masterwork Rapier",
-            "value": 120,
+            "name": "Leather Armor",
+            "value": 10,
             "amount": 1,
             "claimed": {
                 "party": 0,
@@ -218,8 +189,50 @@
             "trade-good": false
         },
         {
-            "name": "Potion: Aid",
-            "value": 300,
+            "name": "Heavy Wooden Shield (Painted on it, in yelow paint, a paw). The mark of the black ravangers",
+            "value": 7,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 1,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Bottle of Black Ink",
+            "value": 8,
+            "amount": 2,
+            "claimed": {
+                "party": 0,
+                "Phil": 1,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 1
+            },
+            "trade-good": true
+        },
+        {
+            "name": "Sheet of Paper",
+            "value": 0.4,
+            "amount": 100,
+            "claimed": {
+                "party": 0,
+                "Phil": 50,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 50
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Potion of Fly",
+            "value": 900,
             "amount": 1,
             "claimed": {
                 "party": 1,
@@ -232,8 +245,8 @@
             "trade-good": false
         },
         {
-            "name": "Potion: Oil of Arcane Mark",
-            "value": 25,
+            "name": "Potion of Experdious Retreat",
+            "value": 750,
             "amount": 1,
             "claimed": {
                 "party": 1,
@@ -246,7 +259,7 @@
             "trade-good": false
         },
         {
-            "name": "Potion: Magic Weapon",
+            "name": "Potion of Phantom Steed",
             "value": 50,
             "amount": 1,
             "claimed": {
@@ -259,5 +272,7 @@
             },
             "trade-good": false
         }
-    ]
+    ],
+    "name": "Party with the faries",
+    "comments": ""
 }

@@ -1,0 +1,37 @@
+
+Level 2:
+    [x] Check for new abilities
+    [x] Check for (and pick) new spells
+    [x] Update Base Attack Bonus
+    [x] Update Fort/Ref/Will saves
+    [x] Update Skills 
+        +1 Diplomacy
+        +1 Perception
+        +1 Ride
+        +1 Sense Motive
+    [x] Pick favored class bonus
+        +1 Skill
+    [x] Update hit points
+        +9 (14->23)
+
+Level 2:
+    [x] Check for new abilities
+        + Aura of courage
+        + divine health
+        + mercy (fatigued)
+    [] Check for (and pick) new spells
+    [x] Update Base Attack Bonus
+    [x] Update Fort/Ref/Will saves
+    [x] Update Skills 
+        + Deplomacy
+        + Sens Motice
+        + Spell Craft
+        + Perception
+    [x] Pick favored class bonus
+        + skill
+    [x] Update hit points
+        +9 (23->32)
+        
+
+        
+

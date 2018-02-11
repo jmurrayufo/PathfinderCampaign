@@ -1,0 +1,8 @@
+[ ] Check for (and pick) new spells
+[ ] Check for new abilities
+[ ] Pick favored class bonus
+[ ] Pick favored class bonus
+[ ] Update Base Attack Bonus
+[ ] Update Fort/Ref/Will saves
+[ ] Update Skills 
+[ ] Update hit points
