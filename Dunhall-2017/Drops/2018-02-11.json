@@ -1,0 +1,39 @@
+{
+    "coins": {
+        "platinum": 0,
+        "gold": 692,
+        "silver": 0,
+        "copper": 0
+    },
+    "items": [
+        {
+            "name": "Trident",
+            "value": 15,
+            "amount": 7,
+            "claimed": {
+                "party": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Light Cross Bow",
+            "value": 35,
+            "amount": 7,
+            "claimed": {
+                "party": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Bolts",
+            "value": 1,
+            "amount": 7,
+            "claimed": {
+                "party": 0
+            },
+            "trade-good": false
+        }
+    ],
+    "name": "Boat Battle",
+    "comments": ""
+}

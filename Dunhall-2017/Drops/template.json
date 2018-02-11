@@ -1,0 +1,21 @@
+{
+    "coins": {
+        "platinum": 0,
+        "gold": 0,
+        "silver": 0,
+        "copper": 0
+    },
+    "items": [
+        {
+            "name": "sword",
+            "value": 50,
+            "amount": 1,
+            "claimed": {
+                "party": 0
+            },
+            "trade-good": false
+        }
+    ],
+    "name": "UNAMED",
+    "comments": ""
+}
