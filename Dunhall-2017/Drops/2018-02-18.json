@@ -1,0 +1,152 @@
+{
+    "coins": {
+        "platinum": 0,
+        "gold": 5232,
+        "silver": 0,
+        "copper": 0
+    },
+    "items": [
+        {
+            "name": "Studded Leather Armor",
+            "value": 25,
+            "amount": 8,
+            "claimed": {
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0,
+                "party": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Small pendant, Immune to disease",
+            "value": 7400,
+            "amount": 1,
+            "claimed": {
+                "Phil": 0,
+                "John": 0,
+                "Sean": 1,
+                "Leata": 0,
+                "Margaret": 0,
+                "party": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "War Ax +1 ", 
+            "value": 2330,
+            "amount": 1,
+            "claimed": {
+                "Phil": 0,
+                "John": 1,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0,
+                "party": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Horse Shoe of Zephar (Silver, magic aura)",
+            "value": 6000,
+            "amount": 1,
+            "claimed": {
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0,
+                "party": 1
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Bard Scroll of Glitter Dust",
+            "value": 200,
+            "amount": 1,
+            "claimed": {
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 1,
+                "party": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Bard Scroll of Obscuring Mist",
+            "value": 25,
+            "amount": 1,
+            "claimed": {
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 1,
+                "party": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Resist Energy Potion",
+            "value": 300,
+            "amount": 1,
+            "claimed": {
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0,
+                "party": 1
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Silversheen",
+            "value": 250,
+            "amount": 1,
+            "claimed": {
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0,
+                "party": 1
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Bless Water Wand",
+            "value": 2000,
+            "amount": 1,
+            "claimed": {
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0,
+                "party": 1
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Cloke of Resistance +2",
+            "value": 4000,
+            "amount": 1,
+            "claimed": {
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 1,
+                "Margaret": 0,
+                "party": 0
+            },
+            "trade-good": false
+        }
+    ],
+    "name": "Stuff From Plant Fight",
+    "comments": ""
+}
