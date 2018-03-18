@@ -1,0 +1,110 @@
+{
+    "coins": {
+        "platinum": 0,
+        "gold": 368,
+        "silver": 0,
+        "copper": 0
+    },
+    "items": [
+        {
+            "name": "Emerald",
+            "value": 1000,
+            "amount": 2,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Diamon Challases (Price?)",
+            "value": 50,
+            "amount": 37,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Scimiter",
+            "value": 15,
+            "amount": 2,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "2x longbows",
+            "value": 50,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "Chain Mail (broken)",
+            "value": 50,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "35x Arrows",
+            "value": 50,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        },
+        {
+            "name": "",
+            "value": 50,
+            "amount": 1,
+            "claimed": {
+                "party": 0,
+                "Phil": 0,
+                "John": 0,
+                "Sean": 0,
+                "Leata": 0,
+                "Margaret": 0
+            },
+            "trade-good": false
+        }
+    ],
+    "name": "UNAMED",
+    "comments": "TBD"
+}
